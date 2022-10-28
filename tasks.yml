@@ -1,0 +1,38 @@
+---
+tasks:
+  task_1:
+  - name: this project
+  - category: easy
+  - has_deadline: false
+  - deadline: 0000-00-00
+  - done: false
+  task_2:
+  - name: creative project
+  - category: medium
+  - has_deadline: false
+  - deadline: 0000-00-00
+  - done: false
+  task_3:
+  - name: making money
+  - category: hard
+  - has_deadline: false
+  - deadline: 0000-00-00
+  - done: false
+  task_4:
+  - name: traingin dog
+  - category: impossible
+  - has_deadline: true
+  - deadline: '2023-01-31'
+  - done: false
+  task_5:
+  - name: test
+  - category: easy
+  - has_deadline: false
+  - deadline: 0000-00-00
+  - done: false
+  task_6:
+  - name: test
+  - category: easy
+  - has_deadline: false
+  - deadline: 0000-00-00
+  - done: false
